@@ -35,7 +35,7 @@
     "url": "https://github.com/distributions-io/generator-distributions-io/issues"
   },
   "dependencies": {
-    "chalk": "^0.5.1",
+    "chalk": "^1.0.0",
     "npm-name": "^1.0.1",
     "shelljs": "^0.3.0",
     "yeoman-generator": "^0.17.3",
